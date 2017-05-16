@@ -1,0 +1,15 @@
+{
+  "name": "yarn-demonstration_PRE",
+  "version": "1.0.0",
+  "description": "yarn-demonstration",
+  "main": "index.js",
+  "repository": "https://github.com/LRSummers/yarn-demonstration.git",
+  "author": "Luke Summers",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "fancybox": "^3.0.0",
+    "grunt": "^1.0.1",
+    "jquery": "^3.2.1"
+  }
+}
